@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.app{
+
+background: aqua;
+}
+
+
+.header{
+
+background-color: blue;
+}
+
+.Order{
+  background: yellowgreen;
+}
+
+.adminPanel{
+padding: 10px;
+}
